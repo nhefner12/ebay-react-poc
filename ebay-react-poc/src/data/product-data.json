@@ -1,62 +1,107 @@
 [
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "b3ee1f24-52da-48b9-bfe1-d9c78b8aab57",
+      "cost": 864,
+      "productName": "aute cillum elit incididunt anim",
+      "productDesc": "Tempor pariatur ea consequat consectetur ut ea voluptate sit qui reprehenderit non eiusmod anim. Lorem tempor culpa quis est ea aute laboris amet. Sunt Lorem duis amet deserunt irure sit commodo cupidatat occaecat. Duis et duis velit cillum reprehenderit culpa velit in amet ipsum elit. Cupidatat esse nisi excepteur eiusmod ad commodo et. Ut ipsum ad nulla sit voluptate magna ullamco exercitation sit minim laboris irure et dolore.\r\n",
+      "listingDate": "2020-12-20"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "ee731d37-0402-426e-8d8c-b3aca3bbe77c",
+      "cost": 992.36,
+      "productName": "quis cillum eu nisi mollit",
+      "productDesc": "Adipisicing aute et reprehenderit aliqua incididunt ex velit. Irure et nostrud nulla tempor consectetur veniam et commodo sit eu eiusmod. Irure non voluptate excepteur dolore ipsum adipisicing dolor culpa. Commodo fugiat eiusmod anim et quis anim sunt ea labore eiusmod ipsum. Officia id voluptate sunt incididunt laboris. Laborum amet incididunt Lorem cupidatat mollit consectetur officia labore excepteur dolor mollit id incididunt.\r\n",
+      "listingDate": "2021-01-24"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "28cad24a-a872-4f50-b7c1-ce9782188e2f",
+      "cost": 625.8,
+      "productName": "excepteur incididunt labore mollit elit",
+      "productDesc": "Laborum proident Lorem incididunt consequat ea sit anim. Veniam ad minim nostrud et qui occaecat. Quis proident ut eu et voluptate mollit incididunt dolore proident ea tempor nisi non. Sit dolor voluptate id dolore ea do ullamco duis officia elit. Lorem tempor exercitation in ullamco consectetur. Consequat veniam tempor irure excepteur nisi culpa consectetur ea laborum officia aliquip nostrud voluptate laborum.\r\n",
+      "listingDate": "2018-07-11"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "15472815-4600-49df-bb6d-a3c509f28bed",
+      "cost": 430.56,
+      "productName": "nisi ut ipsum culpa minim",
+      "productDesc": "Veniam dolore do sit duis ex et. Ex et duis est cupidatat amet sunt elit nulla officia elit. In mollit mollit mollit dolor culpa ullamco adipisicing. Magna ea esse eu culpa id eu aliqua exercitation. Excepteur id dolor aliqua nisi Lorem ipsum enim et ut consequat qui cillum id. Fugiat exercitation culpa pariatur mollit excepteur tempor cillum voluptate qui adipisicing dolor excepteur commodo.\r\n",
+      "listingDate": "2019-06-26"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "abc833df-d2e2-428d-953a-30ac4cfe3aef",
+      "cost": 316.21,
+      "productName": "duis esse minim minim dolore",
+      "productDesc": "Fugiat ex eiusmod nulla commodo reprehenderit sunt ex nisi sit sunt commodo sit eu. Sunt do aliqua fugiat esse non do aute ad magna ex. Labore nisi amet incididunt sunt cillum fugiat exercitation nisi dolore proident id Lorem mollit.\r\n",
+      "listingDate": "2015-08-28"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "dfd72316-0bdb-4f80-a080-91953f3cd280",
+      "cost": 454.82,
+      "productName": "esse sit nulla esse magna",
+      "productDesc": "Sunt adipisicing esse amet duis labore. Consequat magna deserunt nostrud aute duis sunt sint magna non sit tempor eu labore adipisicing. Ea cupidatat labore esse incididunt cillum voluptate. Consectetur occaecat nisi Lorem nisi non ut culpa Lorem tempor est nulla deserunt.\r\n",
+      "listingDate": "2021-09-17"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "bb57db7f-3d4e-4919-be56-9d78bdd770c8",
+      "cost": 987.79,
+      "productName": "mollit sint consectetur laborum laboris",
+      "productDesc": "Tempor irure minim sint quis excepteur proident dolor commodo. Fugiat ipsum irure voluptate qui. Occaecat labore exercitation nisi voluptate esse consequat. Eiusmod nisi aute laboris id do qui consectetur. Et pariatur consequat ullamco ea exercitation duis sunt amet proident culpa. Ipsum ut commodo voluptate anim aliqua nulla amet voluptate minim laborum. Nostrud deserunt fugiat enim est reprehenderit pariatur aliquip ea nostrud duis nulla.\r\n",
+      "listingDate": "2018-04-24"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "8d5fa371-2f42-4b30-8d85-bc31c876f219",
+      "cost": 872.42,
+      "productName": "reprehenderit cupidatat labore occaecat aliqua",
+      "productDesc": "Eiusmod magna aliqua ipsum ea eiusmod cillum velit sunt. Minim tempor Lorem culpa enim proident laborum nisi voluptate non aute ut. Fugiat aliquip nisi aliquip velit et enim in duis veniam incididunt est dolor aute ad. Aliquip labore exercitation elit dolore pariatur excepteur aliquip ex cupidatat commodo sunt. Enim elit consequat cupidatat labore cupidatat in deserunt non.\r\n",
+      "listingDate": "2017-12-18"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "f51dd60d-76d2-4a67-8e6c-400281ebb448",
+      "cost": 383.22,
+      "productName": "culpa fugiat proident labore reprehenderit",
+      "productDesc": "Aute sint velit ad ad ullamco dolor exercitation enim et mollit. Et mollit pariatur aliquip esse id. Dolore mollit incididunt incididunt magna cupidatat minim elit ex veniam ullamco. Elit esse fugiat pariatur ullamco magna do quis consectetur reprehenderit dolore commodo sit. Mollit fugiat esse exercitation elit ut deserunt anim exercitation ea qui sunt sint proident. Eiusmod sunt in nisi cillum officia nostrud amet esse et. Anim consequat sint sunt proident dolor velit laborum ullamco.\r\n",
+      "listingDate": "2020-08-24"
     },
     {
-        "sku": 1
-        ,"product-name": "item 1"
-        ,"product-desc": "item 1 desc"
-        ,"cost": 5
+      "guid": "cb5f6193-f6c8-47aa-a565-4c04c72358e4",
+      "cost": 587.18,
+      "productName": "mollit nulla nulla labore sunt",
+      "productDesc": "Cillum dolore est et qui dolor eu consectetur. Est amet culpa sunt dolore adipisicing. Adipisicing ad ipsum quis officia proident eu ad nostrud voluptate. Ad fugiat do reprehenderit sit velit qui non est do. Occaecat sint id ex elit. Culpa amet consectetur exercitation culpa tempor aute magna enim ipsum amet.\r\n",
+      "listingDate": "2015-04-04"
+    },
+    {
+      "guid": "05a930ce-8191-4245-af08-0b9cbedf5f81",
+      "cost": 47.39,
+      "productName": "ut esse deserunt incididunt consequat",
+      "productDesc": "Culpa officia nulla aliquip enim incididunt et excepteur dolor duis ullamco. Sint qui sit id enim tempor culpa eu. Dolor laboris elit labore tempor. Laborum ipsum dolore est mollit commodo laboris irure labore.\r\n",
+      "listingDate": "2020-09-08"
+    },
+    {
+      "guid": "3874d638-7df3-4ed2-bd16-e9d40c440b93",
+      "cost": 661.81,
+      "productName": "minim aliqua do elit incididunt",
+      "productDesc": "Proident in excepteur ipsum do velit labore quis ipsum pariatur exercitation ut occaecat incididunt. Consectetur sint ullamco ad minim do ullamco culpa sit nulla in ad excepteur. Magna sint duis sunt nulla esse dolor in in consectetur aliquip magna et excepteur officia. Laborum exercitation pariatur ad magna dolor exercitation quis quis. Proident non quis non officia amet. Tempor aute amet nisi laboris irure. Nulla est ut adipisicing velit velit proident in cupidatat exercitation irure ad tempor id ipsum.\r\n",
+      "listingDate": "2014-03-06"
+    },
+    {
+      "guid": "7d35afa9-cbc4-49f2-bd91-346f9c28ecbb",
+      "cost": 495.57,
+      "productName": "consequat mollit deserunt irure non",
+      "productDesc": "Ad minim tempor aliquip consequat fugiat officia excepteur velit. Anim anim commodo id quis consectetur deserunt. Nisi nostrud aute consectetur culpa consequat esse id nulla anim tempor duis in. Officia anim do esse sit ut ullamco pariatur sit esse consectetur commodo officia laborum. Ad sit duis est cupidatat esse culpa culpa ut sint exercitation et dolore exercitation proident. Exercitation deserunt velit nostrud labore duis et et duis ut velit reprehenderit irure ipsum. Tempor magna ea proident ad deserunt do excepteur esse et dolor ullamco ad.\r\n",
+      "listingDate": "2019-11-30"
+    },
+    {
+      "guid": "84e5d153-1523-41d8-b9f0-f50b2c0cb9c7",
+      "cost": 43.29,
+      "productName": "adipisicing amet irure ea aliqua",
+      "productDesc": "Ipsum cupidatat velit cillum aute Lorem sunt in non velit duis voluptate qui magna sunt. Tempor consectetur culpa sit reprehenderit quis ullamco elit. Sunt ex fugiat eiusmod occaecat sunt laboris veniam consequat consequat veniam aute. Sit sunt fugiat mollit sunt ea mollit cillum. Aute incididunt exercitation veniam dolor tempor duis anim do proident mollit laborum fugiat ullamco Lorem.\r\n",
+      "listingDate": "2015-09-09"
+    },
+    {
+      "guid": "17f1d493-1005-4532-8353-5df53599bf4f",
+      "cost": 300.05,
+      "productName": "occaecat enim occaecat ex qui",
+      "productDesc": "Nulla minim officia ad incididunt cupidatat ipsum labore anim laborum ipsum dolor amet do. Culpa anim cillum quis nostrud pariatur commodo enim exercitation. Commodo occaecat exercitation esse aliqua. Ut quis culpa elit in velit incididunt. Et dolor aute reprehenderit cupidatat ex id qui sunt eu sit velit Lorem.\r\n",
+      "listingDate": "2021-08-14"
     }
-]
+  ]

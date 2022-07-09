@@ -7,17 +7,22 @@ let productData: any[] = require('../data/product-data.json');
 const Products: FC<any> = (): ReactElement => {
     return (
         <Box sx={{
-            pl: 5,
+            pl: 1,
             pt: 5
         }}>
             <Grid container spacing={4} sx={{
             backgroundColor: 'whitesmoke',
-            alignContent: 'center'
+            justifyContent: 'center'
         }}>
             {
                 productData.map((product) => {
                     return (<Grid item>
-                        <ProductCard />
+                        <ProductCard 
+                        guid={product.guid} 
+                        productName={product.productName} 
+                        productDesc={product.productDesc} 
+                        cost={product.cost}
+                        listingDate={product.listingDate}/>
                     </Grid>);
 
                 })
